@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T19:08:04.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="_zwcTnhpwqLxYbAw5V8l" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T19:16:56.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="k2AswIIA3cq_vpuvQBHI" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1895,11 +1895,20 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-986" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Type the Below Details :&lt;br&gt;-Supplier Country&lt;br&gt;-Address Line 1&lt;br&gt;-Address Line 2&lt;br&gt;-Address Line 3&lt;br&gt;-City&lt;br&gt;-Postal Code&lt;br&gt;-State (If Exists)&lt;br&gt;- Province (If Exists)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="7880" width="120" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-991" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-987" target="aIZFORbCO0NPMmtatlJX-990">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-987" value="" style="shape=mxgraph.gcp.machine_learning.natural_language_api;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="273" y="7850" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-989" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Select Local Language &lt;br&gt;- American English&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="7886" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-990" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cell_phone.svg;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="438" y="7900" width="21" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-992" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Enter Phone Number as Below :&lt;br&gt;- Purchasing Phone &amp;amp; Paysite Phone Exists is different-&lt;br&gt;&amp;nbsp;Enter Purchase Phone Area Code &amp;amp; Number&lt;br&gt;- Only Paysite Exists - Enter NA&lt;br&gt;- Purchase Site Exists - Enter Paysite Area Code &amp;amp; Phone&lt;br&gt;-&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="7890" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
