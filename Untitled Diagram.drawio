@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T17:38:15.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="jsWp5RpCzb8epjyM5wih" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T17:49:14.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BzGDGfvOmYpPRVGHRs_T" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1665,11 +1665,34 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-912" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Navigate to&lt;br&gt;&amp;nbsp;ERP&lt;br&gt;&amp;nbsp;Home&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="6641" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-923" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-913">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="6810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-913" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged_Highlight_16-16-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="299.5" y="6637.5" width="67" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-915" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Activate SARS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="6701" width="80" height="20" as="geometry" />
+        <mxCell id="aIZFORbCO0NPMmtatlJX-915" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Activate &lt;br&gt;SARS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="6671" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-919" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="6674" as="targetPoint" />
+            <mxPoint x="370" y="6674" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-920" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Request Type &amp;lt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Add&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Supplier&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Site&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="6656" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-921" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/minicons/Png/Select.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="309" y="6816" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-924" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Request Type =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Add&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Supplier&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Site&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="6740" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-925" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Select &lt;br&gt;Add Supplier&amp;nbsp;Site&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="6820" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
