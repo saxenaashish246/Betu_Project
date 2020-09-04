@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T12:34:23.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ooMS8olNEcwjs9mzltvp" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T12:39:45.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="OJu9pxjtGukPiYTWcWNB" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -610,8 +610,31 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-469" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Purchase site &lt;br&gt;&amp;amp; Paysite does not exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="1840" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-471" target="aIZFORbCO0NPMmtatlJX-474">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-471" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/education-filled-outline-8/64/Education-Filled_40-128.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="655" y="2050" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-473" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Identification&lt;br&gt;Tab&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="2110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-474">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="2083.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-474" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/xomo-basics/128/document-02-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="502" y="2051" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-475" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Get Purchase &lt;br&gt;Site Name If Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="2100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-477" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/the-shine-of-small-things/128/shining_mix_wallet-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="395" y="2053" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-479" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Get PaySite &lt;br&gt;Name If Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="391.75" y="2110" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
