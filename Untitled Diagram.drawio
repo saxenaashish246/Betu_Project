@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T09:05:15.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="a1KKygTbTL3yt_MjJuvo" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T09:09:02.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="wHbbuE6ZXIfUbC9oPi6e" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,11 +159,33 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-124" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Operating &lt;br&gt;Unit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="586" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="572.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699552-icon-27-one-finger-click-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="552" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-127" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Supplier&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="585" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="574.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-128" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/type-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="555" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-129" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Type into&amp;nbsp;&lt;br&gt;Supplier&amp;nbsp;&lt;br&gt;Number&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="279.5" y="585" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/geosm-e-commerce/18/keyboard-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="549" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-136" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Enter&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Supplier&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Name&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="585" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
