@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T08:16:32.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="1BnxMeLjrwT6ZkzkcGEc" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T08:35:31.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="bRkVFQ5yo0uOnaiPeT4f" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,58 +8,95 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/48px_icons_collection_by_neweravin/48/start.png" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="48" height="48" as="geometry" />
+          <mxGeometry x="16" y="40" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-38" target="aIZFORbCO0NPMmtatlJX-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="167" y="189" />
+              <mxPoint x="153" y="189" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-38" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="147" y="91" width="40" height="48" as="geometry" />
+          <mxGeometry x="133" y="91" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-41" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Check Input&lt;br&gt;&amp;nbsp;Folder &lt;br&gt;for Vendor File&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="83" width="70" height="50" as="geometry" />
+          <mxGeometry x="70" y="83" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-291.25" y="1133.75" width="2217.5" height="25" as="geometry" />
+          <mxGeometry x="-271.25" y="1133.75" width="2217.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-51" target="aIZFORbCO0NPMmtatlJX-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="241" y="107" />
+              <mxPoint x="227" y="107" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="189" as="targetPoint" />
+            <mxPoint x="316" y="189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-audio-video/22/queue-128.png" vertex="1" parent="1">
-          <mxGeometry x="217" y="165" width="48" height="48" as="geometry" />
+          <mxGeometry x="203" y="165" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-54" value="Add All file &lt;br&gt;name&lt;br&gt;&amp;nbsp;to Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="197" y="209" width="70" height="50" as="geometry" />
+          <mxGeometry x="183" y="209" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-56">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="107" as="targetPoint" />
+            <mxPoint x="820" y="107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fatcow/32/move_to_folder.png" vertex="1" parent="1">
-          <mxGeometry x="450" y="87" width="40" height="40" as="geometry" />
+          <mxGeometry x="436" y="87" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-63" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;If Error Occured - Move file to Exception Folder&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:48}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;If Error&amp;nbsp;Occured -&lt;br&gt;Move file&amp;nbsp;to Exception&lt;br&gt;Folder&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="48" width="120" height="50" as="geometry" />
+          <mxGeometry x="406" y="48" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-64" target="aIZFORbCO0NPMmtatlJX-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/UltimateGnome/128x128/stock/stock_folder-move.png" vertex="1" parent="1">
-          <mxGeometry x="338" y="170" width="48" height="48" as="geometry" />
+          <mxGeometry x="324" y="170" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-72" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Move files to \n InProgress \nFolder&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:34}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;Move files to &lt;br&gt;&amp;nbsp; InProgress &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Folder&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="203" width="90" height="60" as="geometry" />
+          <mxGeometry x="309" y="203" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/developperss/PNG/Get%20Document.png" vertex="1" parent="1">
+          <mxGeometry x="436" y="172" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-75" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Get the File Name one by one from the Orchestrator queue&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:56},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:15.777777777777779,&amp;#34;e&amp;#34;:56}]}&quot;&gt;&lt;span style=&quot;color: #000000 ; font-size: 11.833333333333336px&quot;&gt;Get the File Name &lt;br&gt;one by one from &lt;br&gt;the Orchestrator queue&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="212" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-77" target="aIZFORbCO0NPMmtatlJX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="566" y="172" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-81" value="Read the&amp;nbsp;&lt;br&gt;Vendor&lt;br&gt;Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="212" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/free-3d-glossy-interface-icon-set/64/Accept.png" vertex="1" parent="1">
+          <mxGeometry x="627" y="270" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-88" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Validate the \nSAF Details&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;000000ff&amp;quot;,&amp;quot;e&amp;quot;:25}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;Validate the &#xa;SAF Details&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-92" value="Validation&lt;br&gt;Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="708" y="273" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
