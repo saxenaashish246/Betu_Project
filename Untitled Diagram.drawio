@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T11:08:32.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="s_x5evMa-XecTqW5wxKs" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T11:16:14.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="4M2zCKKJTaJia4rFNmCH" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -388,6 +388,11 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-353" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Pop up&lt;br&gt;&amp;nbsp;Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1488" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1480.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-356" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/address_book-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="569" y="1451" width="59" height="59" as="geometry" />
         </mxCell>
@@ -403,8 +408,25 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-367" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Ok&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="1610" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-369" value="Enter &lt;br&gt;Address&lt;br&gt;&amp;nbsp;Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1501" width="60" height="50" as="geometry" />
+        <mxCell id="aIZFORbCO0NPMmtatlJX-369" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Enter &lt;br&gt;Address&lt;br&gt;&amp;nbsp;Name&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1501" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-374">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1481.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-374" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_Open_Pokeball-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="1461" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-376" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Go&amp;nbsp;&lt;br&gt;Button&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1492" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-377" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-and-marketing-21/32/web_control_management-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1458" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-379" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Manage&amp;nbsp;&lt;br&gt;Site&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1494" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
