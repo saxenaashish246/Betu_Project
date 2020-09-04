@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T08:56:09.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="4dAp87aRIHp1ssMgyg47" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T09:05:15.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="a1KKygTbTL3yt_MjJuvo" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-271.25" y="1133.75" width="2217.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-51" target="aIZFORbCO0NPMmtatlJX-56">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-51" target="aIZFORbCO0NPMmtatlJX-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="227" y="166" />
@@ -44,7 +44,7 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-54" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Add All file &lt;br&gt;name&lt;br&gt;&amp;nbsp;to Queue&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="188" y="268" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-56">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="166" as="targetPoint" />
           </mxGeometry>
@@ -84,7 +84,7 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-81" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Read the&amp;nbsp;&lt;br&gt;Vendor&lt;br&gt;Information&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="553.5" y="275" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="393.5" as="targetPoint" />
             <mxPoint x="693" y="393.5" as="sourcePoint" />
@@ -98,11 +98,16 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/free-3d-glossy-interface-icon-set/64/Accept.png" vertex="1" parent="1">
           <mxGeometry x="631" y="357" width="64" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-88" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Validate the \nSAF Details&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:25}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Validate the &lt;br&gt;SAF Details&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-88" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Validate the \nSAF Details&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:25}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Validate the &lt;br&gt;SAF Details&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="414" width="90" height="57" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-92" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validation&lt;br&gt;Failed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="713" y="359" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="401.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-95" value="Login" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.login;" vertex="1" parent="1">
           <mxGeometry x="316" y="381.5" width="56" height="40" as="geometry" />
@@ -115,7 +120,7 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-102" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/files-98/32/Attachment-128.png" vertex="1" parent="1">
           <mxGeometry x="485" y="367" width="62" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.213;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-105" target="aIZFORbCO0NPMmtatlJX-44">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.213;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-105" target="aIZFORbCO0NPMmtatlJX-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="525" y="510" />
@@ -133,6 +138,32 @@
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-111" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Login into SARS &lt;br&gt;Application&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-112" target="aIZFORbCO0NPMmtatlJX-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-112" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/198_Computer_padlock_security_lock_login-128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="359" width="91" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-116" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Login into ERP&amp;nbsp;&lt;br&gt;Application&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="422" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-123" target="aIZFORbCO0NPMmtatlJX-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-123" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_arrow_Click_user_interface_pointer_cursor-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="551" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-124" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Operating &lt;br&gt;Unit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="586" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699552-icon-27-one-finger-click-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="552" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-127" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Supplier&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
