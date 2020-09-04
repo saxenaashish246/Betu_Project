@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T19:21:20.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="urEz6zpKZem1mhE-uGh8" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T19:22:28.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="nOlXbBAdIHQ-LPrThrYS" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1924,11 +1924,19 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-996" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Type Alternate &lt;br&gt;Paysite If Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="8020" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-1001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-997">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="8220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-997" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pinpoint-interface/48/condition2-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="426" y="8130" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-999" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Type Alternate&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Purchase SiteIf Exists&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="8134" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-1000" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/entypo/100/address4-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="428" y="8224" width="47" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
