@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T15:06:16.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="FEjMm_LVNfM7YKDd0NsM" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T15:12:31.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="yTtPNBUg2Az_pyMV9NqA" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1241,11 +1241,40 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-757" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Go &lt;br&gt;Button&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="4870" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-766" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-758" target="aIZFORbCO0NPMmtatlJX-765">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-758" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/simple-files-1/128/Update-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="317" y="4873" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-762" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Update&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="4923" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-770" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-765" target="aIZFORbCO0NPMmtatlJX-769">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-765" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/200_Bank_business_finance_building_money-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="137" y="4847.5" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-768" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Retrieve Below Bank Details :&lt;br&gt;-Bank Country&lt;br&gt;-Bank Name&lt;br&gt;-Bank Branch Name&lt;br&gt;-Bank Number&lt;br&gt;-Bank Branch Number&lt;br&gt;-Branch Type&lt;br&gt;-BIC&lt;br&gt;-Bank Account Name&lt;br&gt;-Bank Account Number&lt;br&gt;-IBAN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="4938" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-774" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-769">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="93.5" y="5230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-769" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/common-toolbar/36/Delete-2-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="65" y="5130" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-771" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Cancel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="5138.5" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-772" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-office-icons-1/140/Artboard_1-3-128.png;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="66" y="5237" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-775" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="5250" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
