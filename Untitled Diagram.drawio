@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T14:00:41.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="A6Bf1BYuIje1IBHPtr5X" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T14:03:20.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hypiSgAQ_-1lBIamhVNx" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -922,11 +922,20 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-635" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Get the Below Details :&lt;br&gt;-Supplier Country&amp;nbsp;&lt;br&gt;-Address Line 1&lt;br&gt;-Address Line 2&lt;br&gt;Address Line 3&lt;br&gt;- Address Line 4&lt;br&gt;City&lt;br&gt;-State&lt;br&gt;-Postal Code&lt;br&gt;-Province If Exists&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="612" y="3122" width="120" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-640" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-636" target="aIZFORbCO0NPMmtatlJX-639">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-636" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/language-128.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="641" y="3310" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-638" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Get Language&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="3378" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-639" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/seo-170/32/SEO_pay_per_click_hand_link-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="519" y="3316" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-641" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Cancel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="3376" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
