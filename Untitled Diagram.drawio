@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T13:09:26.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Ax3rBAvrS8y4fRUoDMqR" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T13:16:44.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="oabK9rYa9POMmZJf62Ud" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,10 +691,8 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-501" target="aIZFORbCO0NPMmtatlJX-511">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-501">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="2430" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-521" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-501" target="aIZFORbCO0NPMmtatlJX-505">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-501" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/banking-and-finance/500/finance-scale-128.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="421" y="2268" width="72" height="72" as="geometry" />
@@ -702,41 +700,87 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-503" value="Check if SBI Site Name &lt;br&gt;Equals Purchase Site Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="2289" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-526" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-505" target="aIZFORbCO0NPMmtatlJX-525">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-505" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_23-128.png;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2432" width="70" height="70" as="geometry" />
+          <mxGeometry x="290" y="2367" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-508" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="2300" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-509" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Extended &lt;br&gt;DFF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="2447" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-516" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-511" target="aIZFORbCO0NPMmtatlJX-505">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="2474" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="217" y="2382" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-519" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-511">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="2910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-531" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-511">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-533" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aIZFORbCO0NPMmtatlJX-531">
+          <mxGeometry x="-0.2715" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-511" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/computers-and-hardware-2/32/Computers_and_Hardware_fan_component-128.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="431" y="2367" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-514" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Check Extended&lt;br&gt;&amp;nbsp;DFF Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="2407" width="90" height="40" as="geometry" />
+          <mxGeometry x="477" y="2396" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-515" value="&lt;font style=&quot;font-size: 10px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="2340" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-517" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="2430" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-520" value="&lt;font style=&quot;font-size: 10px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="2376" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-535" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-523" target="aIZFORbCO0NPMmtatlJX-534">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-523" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/get-money-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="432" y="2572" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-524" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Get SBI DM &lt;br&gt;Email Address&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="2590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-525" target="aIZFORbCO0NPMmtatlJX-523">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="2616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-537" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aIZFORbCO0NPMmtatlJX-532">
+          <mxGeometry x="-0.3089" y="28" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-538" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-525">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="2529.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-540" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aIZFORbCO0NPMmtatlJX-538">
+          <mxGeometry x="-0.2675" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-525" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_fan_component-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="2500" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-528" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Check Extended &lt;br&gt;DFF Exists&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="209.5" y="2509.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-534" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/close-128.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="436" y="2680" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-536" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Close&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="2690" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
