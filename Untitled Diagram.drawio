@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T13:18:48.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="tFDcTGW_B3QiZ02XZRHQ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T13:20:11.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="kTZLqTu4PaSTpw5nKGaA" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -783,11 +783,22 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-536" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Close&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="2730" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-551" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-543">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="2814" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-543" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/Free-Icons-Shimmer-01-Creative-Freedom/48/close.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="2790" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-548" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Cancel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="2830" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-549" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2790" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-552" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Home&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="2832" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
