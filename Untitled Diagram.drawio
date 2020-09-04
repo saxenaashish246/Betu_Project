@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T08:37:20.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="m44--LQqsTQUa2PwkpiJ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T08:44:32.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hoY2y9wfKXdC3xOakGVw" version="13.6.6" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-75" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Get the File Name one by one from the Orchestrator queue&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;000000ff&amp;#34;,&amp;#34;e&amp;#34;:56},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:15.777777777777779,&amp;#34;e&amp;#34;:56}]}&quot;&gt;&lt;span style=&quot;color: #000000 ; font-size: 11.833333333333336px&quot;&gt;Get the File Name &lt;br&gt;one by one from &lt;br&gt;the Orchestrator queue&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="271" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-77" target="aIZFORbCO0NPMmtatlJX-86">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-77" target="aIZFORbCO0NPMmtatlJX-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="1">
@@ -84,19 +84,29 @@
         <mxCell id="aIZFORbCO0NPMmtatlJX-81" value="Read the&amp;nbsp;&lt;br&gt;Vendor&lt;br&gt;Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="548.5" y="275" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIZFORbCO0NPMmtatlJX-86">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="367" as="targetPoint" />
+            <mxPoint x="820" y="393.5" as="targetPoint" />
+            <mxPoint x="693" y="393.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="393.5" as="targetPoint" />
+            <mxPoint x="629" y="393.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/free-3d-glossy-interface-icon-set/64/Accept.png" vertex="1" parent="1">
-          <mxGeometry x="629" y="335" width="64" height="64" as="geometry" />
+          <mxGeometry x="631" y="357" width="64" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-88" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Validate the \nSAF Details&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;000000ff&amp;quot;,&amp;quot;e&amp;quot;:25}]}&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;Validate the &#xa;SAF Details&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="382" width="90" height="40" as="geometry" />
+          <mxGeometry x="624" y="414" width="90" height="57" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-92" value="Validation&lt;br&gt;Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="708" y="335" width="70" height="30" as="geometry" />
+          <mxGeometry x="708" y="364" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aIZFORbCO0NPMmtatlJX-95" value="Login" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.login;" vertex="1" parent="1">
+          <mxGeometry x="500" y="374" width="56" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
