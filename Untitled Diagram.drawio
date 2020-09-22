@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T05:56:07.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2B3GERPaL9UNHDwaHDs3" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T07:23:56.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MEEWphz_voS3WXrEcB2S" version="13.6.10" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1152" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2170,7 +2170,7 @@
             <mxPoint x="191.5" y="9710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIZFORbCO0NPMmtatlJX-1067" value="&lt;br&gt;Supplier Classification&amp;nbsp;&lt;br&gt;Exists" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;fillColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="aIZFORbCO0NPMmtatlJX-1067" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;Supplier Classification&amp;nbsp;&lt;br&gt;Exists&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="147" y="9590" width="89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-1076" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="aIZFORbCO0NPMmtatlJX-1071" edge="1">
@@ -2348,8 +2348,8 @@
         <mxCell id="f_g4hhRJH1ux9-Mzt8zM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="f_g4hhRJH1ux9-Mzt8zM-46" target="f_g4hhRJH1ux9-Mzt8zM-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_g4hhRJH1ux9-Mzt8zM-46" value="Type Into Payment Method" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="127" y="10365" width="160" height="20" as="geometry" />
+        <mxCell id="f_g4hhRJH1ux9-Mzt8zM-46" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Type Into Payment Method&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="10365" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_g4hhRJH1ux9-Mzt8zM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="f_g4hhRJH1ux9-Mzt8zM-47">
           <mxGeometry relative="1" as="geometry">
@@ -2388,10 +2388,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f_g4hhRJH1ux9-Mzt8zM-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/save-128.png" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="10830" width="69" height="69" as="geometry" />
+          <mxGeometry x="186" y="10836.5" width="56.5" height="56.5" as="geometry" />
         </mxCell>
         <mxCell id="f_g4hhRJH1ux9-Mzt8zM-63" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click Save &lt;br&gt;&amp;amp; &lt;br&gt;Continue&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="10839.5" width="60" height="50" as="geometry" />
+          <mxGeometry x="123.5" y="10839.75" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f_g4hhRJH1ux9-Mzt8zM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="f_g4hhRJH1ux9-Mzt8zM-72">
           <mxGeometry relative="1" as="geometry">
