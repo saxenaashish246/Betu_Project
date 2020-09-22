@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T20:43:35.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Sjzf2EdnTL9JdxeAA9_K" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T20:48:32.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="B-7KQHIRjureKn7QT-3q" version="13.7.3" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2718,11 +2718,44 @@
         <mxCell id="bmdOhlwfNVb5g2PHyYtI-107" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Activate&amp;nbsp;&lt;br&gt;ERP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="533.5" y="12824" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmdOhlwfNVb5g2PHyYtI-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="12990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bmdOhlwfNVb5g2PHyYtI-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-4/24/Ubuntu-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="655" y="12960" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmdOhlwfNVb5g2PHyYtI-110" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Select Operating Unit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="13020" width="110" height="20" as="geometry" />
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-110" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Select&lt;br&gt;&amp;nbsp;Operating Unit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="13010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmdOhlwfNVb5g2PHyYtI-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="12994.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/wpzoom-developer-icon-set/500/28-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="532" y="12967" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-113" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Supplier&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="13014" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmdOhlwfNVb5g2PHyYtI-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="12994.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-115" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/type-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="401" y="12968" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-117" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Type Supplier Name&lt;br&gt;&amp;amp; Number&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="13011" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/emoji-3-5/64/hand_press_button-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="251" y="12967" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-120" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Go Button&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="13024" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
