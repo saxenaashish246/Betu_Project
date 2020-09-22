@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T20:57:31.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cJqQv3einrtfmR1_a9Ob" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T21:01:01.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="l-mAXNeeuG5OytEXFyA5" version="13.7.3" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2824,6 +2824,11 @@
         <mxCell id="bmdOhlwfNVb5g2PHyYtI-140" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Enter Below details:&lt;br&gt;-Ethnicity Code&lt;br&gt;-Diversity Review Date&lt;br&gt;-Type SIC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="13410" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmdOhlwfNVb5g2PHyYtI-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="13383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bmdOhlwfNVb5g2PHyYtI-141" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/random-set-1/364/Asset_77-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="493" y="13356" width="54" height="54" as="geometry" />
         </mxCell>
@@ -2832,6 +2837,12 @@
         </mxCell>
         <mxCell id="bmdOhlwfNVb5g2PHyYtI-144" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Save&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="493" y="13410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-145" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/navigation-98/512/18_direction_street_road._sign._navigate-128.png;rounded=1;shadow=0;sketch=0;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="633" y="13348.5" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bmdOhlwfNVb5g2PHyYtI-147" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Navigate to&amp;nbsp;&lt;br&gt;Address Tab&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="13370" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
