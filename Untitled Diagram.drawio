@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T23:24:42.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="TjSRq4IBXn9RWEFofH3f" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T23:27:32.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HZa6Ta0mpDx-AT18lci6" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="65" y="142" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-11822.62" y="12689.64" width="25318.65" height="25" as="geometry" />
+          <mxGeometry x="-12274.61" y="13141.63" width="26222.62" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aIZFORbCO0NPMmtatlJX-51" target="aIZFORbCO0NPMmtatlJX-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4432,6 +4432,9 @@
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-568" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create Sales Tax = &quot;Yes&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="24794.5" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-577" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-569" target="RelSwp2VXqbQrCQ_VxUH-576">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-569" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click NextGen LookUps&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Add New Lookup Value&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Lookup Code&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Meaning&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter County , Code,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;State &amp;amp; State ID as &quot;F&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Sales&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Description&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter State&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter State ID&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Sales Status&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Apply&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="352" y="24930" width="159" height="290" as="geometry" />
         </mxCell>
@@ -4446,6 +4449,15 @@
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-574" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/24x24-free-application-icons/24/Apply.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="422" y="25185" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-575" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Next Gen Lookups&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="24910" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-576" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="25300" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-578" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Create Sales Tax = &quot;Yes&quot; &lt;br&gt;&amp;amp; Organization &amp;lt;&amp;gt;0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="25300" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
