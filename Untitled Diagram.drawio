@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T09:16:23.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pkR2hCV7uTXHkWk-pCy1" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T09:41:27.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="NqlzPKpRQDtrUXmyQUG7" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3265,8 +3265,13 @@
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-138" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Purchase &lt;br&gt;Site &amp;lt;&amp;gt; 0&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="13738" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523" y="14310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-145" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Address Name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Go&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Manage Site&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Users&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Create&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Site Name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Check Purchase Site&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Apply&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Type Address Name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Go&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Manage Site&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="436" y="13911" width="174" height="348" as="geometry" />
+          <mxGeometry x="436" y="13911" width="174" height="309" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-150" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/address_book-128.png" vertex="1" parent="1">
           <mxGeometry x="548" y="13941" width="27" height="27" as="geometry" />
@@ -3300,6 +3305,94 @@
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-160" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ibrandify-basic-essentials-icon-set/512/pen_stroke_sketch_doodle_lineart_93-128.png" vertex="1" parent="1">
           <mxGeometry x="533" y="14177" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523.5" y="14640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-168" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Fill Descriptive field for&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp; the Purchase site&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Descriptive&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp; Field&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Legacy Supplier&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Number&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter INCO Term&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Destination&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Type Local&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Language&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Type Communication&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp; Method&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Uncheck Paysite&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="437" y="14313" width="173" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-170" value="&lt;font style=&quot;font-size: 10px&quot;&gt;User Tab&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="14290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-171" target="RelSwp2VXqbQrCQ_VxUH-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-171" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;#Communication details for&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp; Purchase Site&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Phone Area&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp; Code&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Phone Area&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Number&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Fax Area&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Code&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Fax Area&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Number&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Enter Email&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="439" y="14743.5" width="176" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-173" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Communication&lt;br&gt;Tab&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="14706" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-174" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/football-badge/48/sport_football_soccer-04-128.png" vertex="1" parent="1">
+          <mxGeometry x="531" y="14356" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-175" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconset-addictive-flavour/png/screen_tron-legacy.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="14396" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/knowledge-management-glyph-2/64/purpose-way-destination-object-goal-aim-128.png" vertex="1" parent="1">
+          <mxGeometry x="505" y="14433" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-177" value="" style="shape=mxgraph.signs.healthcare.sign_language;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="14482" width="45" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-179" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.dynamic_distribution_group;" vertex="1" parent="1">
+          <mxGeometry x="550" y="14500" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-180" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/calendar-94/20/calendar_uncheck-128.png" vertex="1" parent="1">
+          <mxGeometry x="483" y="14553" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="14740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-182" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.remote_move_request;" vertex="1" parent="1">
+          <mxGeometry x="497" y="14646" width="60" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-185" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Communication&lt;br&gt;Tab&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="14646" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-186" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/source_code-128.png" vertex="1" parent="1">
+          <mxGeometry x="539" y="14791" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-187" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/all_google_icons_symbols_by_carlosjj-du/128/one_number-g.png" vertex="1" parent="1">
+          <mxGeometry x="539" y="14825" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-188" value="" style="shape=mxgraph.cisco.modems_and_phones.fax;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="14874" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-189" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/fax.svg;" vertex="1" parent="1">
+          <mxGeometry x="516" y="14912.5" width="34.67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-190" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="468" y="14951" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-191" target="RelSwp2VXqbQrCQ_VxUH-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-191" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/hawcons-gesture-stroke/32/icon_27_one_finger_click-128.png" vertex="1" parent="1">
+          <mxGeometry x="498" y="15069" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-193" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&amp;nbsp;&lt;br&gt;Identification&amp;nbsp;&lt;br&gt;Tab&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="15069" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-194" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Alternative Purchase&amp;nbsp; &amp;nbsp; &amp;nbsp; Site Name - If purchase&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;site&amp;lt;&amp;gt;0&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="456" y="15177" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-196" target="RelSwp2VXqbQrCQ_VxUH-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-196" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.identity_authorization_alt;" vertex="1" parent="1">
+          <mxGeometry x="520" y="15212" width="27" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-197" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/647_touch_click_hand_on_start-128.png" vertex="1" parent="1">
+          <mxGeometry x="505" y="15289" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-200" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click&lt;br&gt;Apply&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="15300" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
