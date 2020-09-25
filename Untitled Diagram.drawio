@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T06:46:55.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tzbhF0lqDplt6bWuFVJM" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T06:54:09.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="NTHXjjtuUwqJ4hVc9gEl" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2966,7 +2966,17 @@
           <mxGeometry x="51" y="13968" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-37" target="RelSwp2VXqbQrCQ_VxUH-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="14560" />
+              <mxPoint x="150" y="14560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-52" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RelSwp2VXqbQrCQ_VxUH-43">
+          <mxGeometry x="-0.0847" y="-9" relative="1" as="geometry">
+            <mxPoint x="7" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/payment-finance-calculator-pay-income-128.png" vertex="1" parent="1">
           <mxGeometry x="117" y="14440" width="66" height="66" as="geometry" />
@@ -2975,31 +2985,31 @@
           <mxGeometry x="78.5" y="14450" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-42" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Create&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Site&amp;nbsp;&lt;span&gt;Name&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Check Pay Site&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Click Apply&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Type Address&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&amp;nbsp; Name&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;-Click Go&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;-Click Manage Site&lt;/span&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="63" y="14570" width="174" height="348" as="geometry" />
+          <mxGeometry x="63" y="14613" width="174" height="348" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-44" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create Paysite&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="14550" width="80" height="20" as="geometry" />
+          <mxGeometry x="60" y="14593" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pinterest-ui-colored/48/JD-15-128.png" vertex="1" parent="1">
-          <mxGeometry x="125" y="14580" width="44" height="44" as="geometry" />
+          <mxGeometry x="125" y="14623" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/education-free/512/education-school-learn-study-09-128.png" vertex="1" parent="1">
-          <mxGeometry x="158" y="14624" width="36" height="36" as="geometry" />
+          <mxGeometry x="158" y="14667" width="36" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_contactless-card-128.png" vertex="1" parent="1">
-          <mxGeometry x="145" y="14670" width="49" height="49" as="geometry" />
+          <mxGeometry x="145" y="14713" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/freeapplication/png/24x24/Apply.png" vertex="1" parent="1">
-          <mxGeometry x="126" y="14724" width="24" height="24" as="geometry" />
+          <mxGeometry x="126" y="14767" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/address_book-128.png" vertex="1" parent="1">
-          <mxGeometry x="139" y="14764" width="47" height="47" as="geometry" />
+          <mxGeometry x="139" y="14807" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-interface-outline-7/512/ui_ux_play_go-128.png" vertex="1" parent="1">
-          <mxGeometry x="115" y="14817" width="33" height="33" as="geometry" />
+          <mxGeometry x="115" y="14860" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/668_optimization_site_site_structure_Web-128.png" vertex="1" parent="1">
-          <mxGeometry x="158" y="14857" width="51" height="51" as="geometry" />
+          <mxGeometry x="158" y="14900" width="51" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
