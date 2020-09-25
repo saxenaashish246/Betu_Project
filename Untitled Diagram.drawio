@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T11:47:26.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="l-TxAZOgI3QbwctkMtvj" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T11:49:56.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="lkcURKm7-ZMyf6Sey3lZ" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="65" y="142" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-8333.83" y="9196.38" width="18342.71" height="25" as="geometry" />
+          <mxGeometry x="-9542.17" y="10404.72" width="20759.39" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aIZFORbCO0NPMmtatlJX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aIZFORbCO0NPMmtatlJX-51" target="aIZFORbCO0NPMmtatlJX-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3654,11 +3654,22 @@
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-303" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/close-128.png;dashed=1;dashPattern=1 2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="481" y="17851" width="18" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-304">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488.5" y="18030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-304" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699458-icon-27-one-finger-click-128.png;dashed=1;dashPattern=1 2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="463" y="17920" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-308" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Click &lt;br&gt;Apply&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="17929" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-309" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-128.png;dashed=1;dashPattern=1 2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="461" y="18035" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-312" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Navigate &lt;br&gt;to&lt;br&gt;&amp;nbsp;ERP &lt;br&gt;Home&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="18021" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
