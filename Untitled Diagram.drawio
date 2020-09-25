@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T20:27:32.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3d5BisrvKLHn65ZuSYin" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T20:36:52.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="U83m_Fxqkvgq5B0KcRFj" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3765,6 +3765,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RelSwp2VXqbQrCQ_VxUH-329" target="RelSwp2VXqbQrCQ_VxUH-418">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="18590" />
+              <mxPoint x="800" y="19230" />
+              <mxPoint x="660" y="19230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-329" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="18540" width="60" height="60" as="geometry" />
         </mxCell>
@@ -3971,6 +3980,30 @@
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-416" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/32x32-free-design-icons/32/Save_as.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="19101" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-418" value="&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Select Account Supplier Level&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;&quot;Site&quot; `&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Banking Tab&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Select &amp;amp; search Site Name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Enter Paysite&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;-Click Go Button &amp;amp; Search&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&amp;nbsp;Address&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;- Click Add Button&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Select &quot;Bank Name&quot;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Enter Bank Name&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Click Select Button&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;span&gt;- Click Save&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 10px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientDirection=west;rounded=1;sketch=0;shadow=0;align=left;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="625" y="19300" width="170" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-420" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site;dashPattern=1 2;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="678" y="19336" width="36.36" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-421" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/Income-cash-money-banking-business-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="676" y="19384" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-422" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/32x32-free-design-icons/32/Select_gpadient.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="19434" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-423" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/the-shine-of-small-things/128/shining_mix_wallet-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673" y="19473" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-424" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="19544" width="25" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-425" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/e-commerce-icon-set/48/Username-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="726" y="19583" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-426" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/atrous/512/floppy_disk_save-128.png;dashed=1;dashPattern=1 2;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="19650" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
