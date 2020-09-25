@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T06:33:48.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="VGcbCHmlSGJZsw4z7T0A" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T06:34:52.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cqotahkwj0gCdxnkWYHU" version="13.7.4" type="github">
   <diagram id="wGuiLWKNx3WksCiHWMRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2945,6 +2945,9 @@
         </mxCell>
         <mxCell id="RelSwp2VXqbQrCQ_VxUH-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/help-and-support-5/64/manage-account-profile-personal-submit-128.png" vertex="1" parent="1">
           <mxGeometry x="147" y="14288" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="RelSwp2VXqbQrCQ_VxUH-36" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create Purchase&amp;nbsp;&lt;br&gt;Site&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="13968" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
