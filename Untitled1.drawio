@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T07:42:17.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CQoLUN9kg5UnDoCyr41E" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T07:50:36.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="u2zLu2p6V0P_vZNzOqii" version="13.7.5" type="github">
   <diagram id="tx0RhGR7xUku0lXKzNuE" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,8 +117,8 @@
         <mxCell id="vZQYXWHKkoh2UNgRFgOe-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/finish_flag-128.png;dashed=1;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="272" y="496" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="vZQYXWHKkoh2UNgRFgOe-48" value="ML - AI Fabric" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="440" width="90" height="20" as="geometry" />
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-49" value="ML -AI Fabric" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="440" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
