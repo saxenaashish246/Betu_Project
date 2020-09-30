@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T07:16:45.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="FeB-rGfSeS8Sz_yKVOR4" type="github"><diagram id="tx0RhGR7xUku0lXKzNuE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-30T07:42:17.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CQoLUN9kg5UnDoCyr41E" version="13.7.5" type="github">
+  <diagram id="tx0RhGR7xUku0lXKzNuE" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-42" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="286" width="544" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="544" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/48px_icons_collection_by_neweravin/48/start.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/repair-database-128.png" vertex="1" parent="1">
+          <mxGeometry x="181" y="134" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-9" value="Create data table &lt;br&gt;for the output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="188" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/chrome-128.png" vertex="1" parent="1">
+          <mxGeometry x="305" y="136" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-12" value="Open the College&lt;br&gt;&amp;nbsp;URL for &lt;br&gt;Reviewing Feedback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="188" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/maximize-128.png" vertex="1" parent="1">
+          <mxGeometry x="419" y="144" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-16" value="Maximize&lt;br&gt;&amp;nbsp;browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesign-office7-shadow-png/128/Extract-object.png;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="524" y="136" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-19" target="vZQYXWHKkoh2UNgRFgOe-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/viiva-business/32/process-128.png;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="674" y="307" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-20" value="Extract the feedback&lt;br&gt;&amp;nbsp;from web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="198" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-23" value="AI - Capture Feedback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-25" value="For Each data &lt;br&gt;in Extracted Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-26" target="vZQYXWHKkoh2UNgRFgOe-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analysis-analytics-data_analytics-pie_1-128.png;dashed=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="307" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-28" value="Analysis the &lt;br&gt;sentiment for Review" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="385" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-31" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="315.6" width="50" height="52.8" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-33" value="Deserialize the &lt;br&gt;JSON output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-37" target="vZQYXWHKkoh2UNgRFgOe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-part-5/32/413-Data_Add-128.png;dashed=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320.4" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-39" value="Add data to &lt;br&gt;the Data table" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="377" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vZQYXWHKkoh2UNgRFgOe-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png;dashed=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="492" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-45" value="Write data to&lt;br&gt;&amp;nbsp;the Excel file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/finish_flag-128.png;dashed=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="272" y="496" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vZQYXWHKkoh2UNgRFgOe-48" value="ML - AI Fabric" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="440" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
