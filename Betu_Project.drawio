@@ -1,1 +1,298 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T18:00:56.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.7.6" etag="bHTp-EycvVGo3CF0k2Ks" type="github"><diagram id="HBSa58AUk7aW9hIXsr4f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T19:20:22.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wvycRyUAQJNai406AdNr" version="13.7.6" type="github">
+  <diagram id="HBSa58AUk7aW9hIXsr4f" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VgDBORoiufumurnQGavn-85" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-1" target="VgDBORoiufumurnQGavn-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/start.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Start&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-62" target="VgDBORoiufumurnQGavn-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/drive-form-128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-64" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Bot will check&amp;nbsp;the Input file on&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;shared path&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="208" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/X-Mac/security/png/128/input_validation.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="155" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-71" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validate the Daily&lt;br&gt;&amp;nbsp;Costing Form&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="208" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Item_li_list_list_item_ul-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="155" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-77" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validate the &lt;br&gt;Item Cost&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="218" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/advancedsettings.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="156" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-80" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validate the &lt;br&gt;Item Setup&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="213" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-82" target="VgDBORoiufumurnQGavn-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="194" />
+              <mxPoint x="790" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-82" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/customer-support-24/64/male-customer-client-service-request-128.png" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-84" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validate &lt;br&gt;the SR/BOD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="224" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-86" value="&lt;b&gt;Data Validation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-87" target="VgDBORoiufumurnQGavn-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="164" y="368" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-87" target="VgDBORoiufumurnQGavn-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-87" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.checklist_cost;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="330" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-90" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Cost Roll Up Process&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="405" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-92" target="VgDBORoiufumurnQGavn-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/random-set-1/453/Asset_83-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-94" value="&lt;font style=&quot;font-size: 10px&quot;&gt;External&lt;br&gt;&amp;nbsp;Buy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="464" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-95" target="VgDBORoiufumurnQGavn-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/shopping-1-18/512/shopping-shop-buy-discount-38-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="454" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-96" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Internal &lt;br&gt;Buy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="474" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/mimetypes/make.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="464" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-102" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Make&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-103" target="VgDBORoiufumurnQGavn-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/SUNNYDAY/security/png/128/running_process.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="682" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-106" target="VgDBORoiufumurnQGavn-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="164" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/UltimateGnome/128x128/apps/system-software-update.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="590" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-108" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Update &lt;br&gt;SCBUY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="590" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-111" target="VgDBORoiufumurnQGavn-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-111" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.call_admission_control_service;" vertex="1" parent="1">
+          <mxGeometry x="445" y="571" width="50" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-114" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Check Control &lt;br&gt;&amp;amp; Shrinkage Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="580.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-116" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Execute&lt;br&gt;&amp;nbsp; SCCR to &lt;br&gt;Update WWSC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="968.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-119" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/pencil-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="940" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-120" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Execute Cost Update&lt;br&gt;to update Frozen Cost&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="990" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VgDBORoiufumurnQGavn-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="339" y="900" />
+              <mxPoint x="339" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/banking-and-finance/500/finance-scale-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-126" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Compare WWSC&lt;br&gt;&amp;nbsp;&amp;amp; &lt;br&gt;SCBUY&amp;amp; Supply Org &lt;br&gt;WWSC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="800" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-134" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="947" width="51" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-137" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-138" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1080" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-139" value="Module 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1144" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-141" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1210" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-142" value="-Get the form from Shared Path&lt;br&gt;-Retrieve the Form data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-143" value="Module 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-145" value="- Validation of Item cost &lt;br&gt;Form Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1227" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-147" value="" style="shape=mxgraph.cisco.controllers_and_modules.content_switch_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1320" width="86" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-148" value="" style="shape=mxgraph.cisco.controllers_and_modules.content_switch_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1320" width="86" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-149" value="" style="shape=mxgraph.cisco.controllers_and_modules.content_switch_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="1320" width="86" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-150" value="Module 2_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="1384" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-151" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Module 2_2&lt;/span&gt;&lt;br&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="1354" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-152" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Module 2_3&lt;/span&gt;&lt;br&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-153" value="&lt;font style=&quot;font-size: 10px&quot;&gt;- Item Cost Check&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-154" value="&lt;font style=&quot;font-size: 10px&quot;&gt;-Item Setup Validation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-155" value="&lt;font style=&quot;font-size: 10px&quot;&gt;-SR/BOD Validation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1420" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-156" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1470" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-157" value="Module 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1540" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-158" value="-External Buy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1500" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-159" value="" style="shape=mxgraph.cisco.controllers_and_modules.content_switch_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="1550" width="86" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-160" value="Module 3_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1630" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-161" value="&lt;font style=&quot;font-size: 10px&quot;&gt;-Update SCBUY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1650" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-163" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1710" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-164" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1870" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-165" value="Module 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="1774" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-166" value="-Make" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1732" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-167" value="Module 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1940" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-168" value="" style="shape=mxgraph.cisco.controllers_and_modules.content_switch_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1770" width="86" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-169" value="Module 4_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="1840" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-170" value="&lt;font style=&quot;font-size: 10px&quot;&gt;-Check Control Shrinkage Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="1860" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-171" value="- Execute SCCR to Update WWSC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="156.5" y="1900" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-172" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Module.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="2000" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-173" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Module 6&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="2070" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VgDBORoiufumurnQGavn-174" value="- Execute Cost Update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2022" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
